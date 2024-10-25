@@ -1,4 +1,3 @@
-Here's a catchy README section for your Mario game project using Kaboom.js:
 
 ---
 
@@ -18,7 +17,3 @@ Kaboom.js is an excellent framework for crafting 2D games, providing a straightf
 ## 🎉 Getting Started
 
 To play the game, simply visit https://matthewmforget.github.io/website. You’ll be transported to a nostalgic world reminiscent of classic platformers!
-
----
-
-Feel free to modify any part of this section to better fit your style or add any additional details about your game!
